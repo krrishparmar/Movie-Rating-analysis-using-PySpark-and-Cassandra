@@ -1,0 +1,31 @@
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# MovieLens dataset
+data/
+ml-20m/
+ml-20m.zip
+
+# Generated Spark output
+output/
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Operating system and IDE files
+.DS_Store
+.vscode/
+
+# Logs
+*.log
+
