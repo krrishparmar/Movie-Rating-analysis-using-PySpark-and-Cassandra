@@ -111,3 +111,6 @@ The same aggregates are exported as CSV files. `yearly_stats` excludes titles wi
 - Include the generated `output/charts/` images and `output/tables/` CSVs after a successful run.
 - Do not submit the `.venv/` directory or the raw MovieLens data files unless the course specifically asks for them; cite MovieLens 20M as the source data.
 - Capture the successful Cassandra row-count output and include it in the project report or presentation.
+
+# Movie-Rating-analysis-using-PySpark-and-Cassandra
+
